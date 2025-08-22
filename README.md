@@ -1,38 +1,68 @@
-# About Me
-Aspiring Software Developer <br>
-Passionate about Artificial Intelligence and building intelligent systems. <br>
-Experienced in AI-powered web projects. <br>
-Always learning, innovating, and creating solutions that matter.  
+# AI & Tech Projects Showcase
+
+## Description
+A collection of my projects, skills, and learning journey in Artificial Intelligence, Generative AI, and Computer Science.
 
 ---
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_octane_c) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-s-175326338) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dineshprince475@gmail.com)  
+## About Me
+I am **Dinesh S**, a Computer Science student at Rajarajeshwari College of Engineering, passionate about Artificial Intelligence and Generative AI.  
+I focus on building real-world impactful AI applications, problem-solving, and continuously learning advanced technologies to grow into a highly skilled AI professional.
 
 ---
 
-# 💻 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
+## Skills
+- **Programming Languages:** Python, C  
+- **Core AI/ML Skills:** Generative AI (LLMs), Prompt Engineering, Resume & Document Analysis AI  
+- **Web & Tools:** HTML, CSS, JavaScript, Node.js  
+- **Databases & Backend:** MongoDB  
+- **Other Skills:** Cybersecurity fundamentals, Git/GitHub, Linux, Problem Solving  
 
 ---
 
-# 📂 Featured Projects
-- **AI Resume & Certificate Verifier** – Web app that verifies documents using AI and highlights strengths/weaknesses in resumes.  
-- **IoT Smart Monitoring System** – College project demonstrating IoT integration with cloud-based analysis.  
-- **Python Automation Scripts** – Tools for automating daily workflows and data analysis.  
+## Technologies I Use
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Dinesh-475&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>
-![](https://nirzak-streak-stats.vercel.app/?user=Dinesh-475&theme=dark&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-475&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+## Projects
+
+### AI Resume & Certificate Verifier
+- Built an AI-powered tool that verifies the authenticity of resumes and certificates.  
+- Highlights flaws and suggests improvements.  
+- Matches resumes with job descriptions and provides a compatibility score.  
+- **Tech Stack:** Python, Generative AI, Node.js, MongoDB  
+
+### Personal Portfolio Website
+- Designed a modern, aesthetic portfolio to showcase projects and skills.  
+- Responsive UI with smooth design principles.  
+- **Tech Stack:** HTML, CSS, JavaScript  
+
+### Cybersecurity Basics Projects
+- Implemented beginner-friendly scripts to test basic security vulnerabilities.  
+- Learned ethical hacking fundamentals.  
+- **Tech Stack:** Python, Linux  
+
+*(More projects will be added as I progress in AI & Generative AI learning.)*
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Dinesh-475&icon=0&color=0)](https://visitcount.itsvg.in)
+## Goals
+- Master **Generative AI & LLMs** for real-world applications  
+- Gain deep knowledge in **AI product development**  
+- Build **societally impactful AI solutions**  
+- Contribute to open-source AI projects  
+
+---
+## Contact
+
+- GitHub: [https://github.com/your-username](https://github.com/your-username)  
+- LinkedIn: [https://www.linkedin.com/in/dinesh-s-175326338/](https://www.linkedin.com/in/dinesh-s-175326338/)  
+- Email: [dineshprince475@gmail.com](mailto:dineshprince475@gmail.com)  
+
+---
