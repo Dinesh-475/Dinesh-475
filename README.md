@@ -1,5 +1,5 @@
- About Me:
-Aspiring Software Developer | AI 🔹 Passionate about building intelligent <br>🔹 Experienced in AI-powered web projects <br> Always learning, innovating 
+About Me:
+Aspiring Software Developer | <br> AI 🔹 Passionate about building intelligent <br>🔹 Experienced in AI-powered web projects <br> Always learning, innovating 
 
 
 ## 🌐 Socials:
