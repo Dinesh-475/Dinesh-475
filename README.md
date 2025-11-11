@@ -41,16 +41,9 @@ I focus on building real-world impactful AI applications, problem-solving, and c
 ### Personal Portfolio Website
 - Designed a modern, aesthetic portfolio to showcase projects and skills.  
 - Responsive UI with smooth design principles.  
-- **Tech Stack:** HTML, CSS, JavaScript  
-
-### Cybersecurity Basics Projects
-- Implemented beginner-friendly scripts to test basic security vulnerabilities.  
-- Learned ethical hacking fundamentals.  
-- **Tech Stack:** Python, Linux  
+- **Tech Stack:** HTML, CSS, JavaScript   
 
 *(More projects will be added as I progress in AI & Generative AI learning.)*
-
----
 
 ## Goals
 - Master **Generative AI & LLMs** for real-world applications  
