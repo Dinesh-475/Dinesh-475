@@ -1,8 +1,9 @@
 <!-- Dinesh's Futuristic GitHub Profile -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dinesh-475/Dinesh-475/main/banner.png" alt="Dinesh S — Generative AI Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/Dinesh-475/Dinesh-475/main/banner_v2.png" alt="Dinesh S — Generative AI Engineer" width="100%" />
 </p>
+
 
 <h1 align="center" style="font-family:Orbitron; color:#00C2FF;">Dinesh S — Generative AI Engineer</h1>
 <h3 align="center" style="color:#B8B8B8;">Designing Intelligence • Building the Future • Automating Imagination</h3>
