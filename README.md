@@ -1,9 +1,10 @@
 <!-- Dinesh's Futuristic GitHub Profile -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dinesh-475/Dinesh-475/main/banner.png" alt="Dinesh S — Generative AI Engineer" width="100%" />
 </p>
 
-<h1 align="center" style="font-family:Orbitron; color:#00C2FF;"> Dinesh S — Generative AI Engineer</h1>
+<h1 align="center" style="font-family:Orbitron; color:#00C2FF;">Dinesh S — Generative AI Engineer</h1>
 <h3 align="center" style="color:#B8B8B8;">Designing Intelligence • Building the Future • Automating Imagination</h3>
 
 <p align="center">
@@ -14,8 +15,8 @@
 
 ## 🧠 About Me
 
-I’m **Dinesh S**, a **Generative AI Engineer** dedicated to building systems that *understand, adapt, and evolve.*  
-My work revolves around **AI agents**, **LLM-powered tools**, and **real-world intelligent automation** — bridging imagination and precision.
+I’m **Dinesh S**, a Generative AI Engineer focused on building systems that *understand, adapt, and evolve*.  
+My work centers on **AI agents**, **LLM-powered tools**, and **applied automation** — turning research ideas into real products.
 
 > 🧬 *"I don’t follow trends in AI — I build what’s next."*
 
@@ -36,29 +37,28 @@ My work revolves around **AI agents**, **LLM-powered tools**, and **real-world i
 
 ## 🚀 Featured Projects
 
-### 🧾 **AI Resume & Certificate Verifier**
-AI that understands and validates documents intelligently.  
-Verifies authenticity, detects anomalies, and provides smart improvement feedback.  
-**Tech:** Python • OpenAI API • LangChain  
+### 🧾 AI Resume & Certificate Verifier
+AI that understands and validates documents — detects anomalies and suggests data-driven improvements.  
+**Tech:** Python • OpenAI API • LangChain
 
 ---
 
-### 🧠 **ChatGen — Conversational Agent**
-LLM-based chatbot that remembers, reasons, and responds like a digital mind.  
-**Tech:** Python • LangChain • GPT Models  
+### 🧠 ChatGen — Conversational Agent
+An LLM-based agent with memory and reasoning for context-aware conversations.  
+**Tech:** Python • LangChain • GPT Models
 
 ---
 
-### 🔮 **Project Horizon** *(in progress)*
-An evolving AI system exploring **multi-agent reasoning** and adaptive decision-making.  
+### 🔮 Project Horizon *(in progress)*
+Exploring multi-agent reasoning and adaptive decision-making for collaborative AI systems.
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
-  <a href="mailto:dinesh.404e@gamil.com">
-    <img src="https://img.shields.io/badge/Email-dinesh.404e%40gamil.com-00C2FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:dinesh.404e@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dinesh.404e%40gmail.com-00C2FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/dinesh-s-175326338/" target="_blank">
