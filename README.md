@@ -14,16 +14,16 @@
 
 ---
 
-## 🧠 About Me
+## - About Me
 
 I’m **Dinesh S**, a Generative AI Engineer focused on building systems that *understand, adapt, and evolve*.  
 My work centers on **AI agents**, **LLM-powered tools**, and **applied automation** — turning research ideas into real products.
 
-> 🧬 *"I don’t follow trends in AI — I build what’s next."*
+> *"I don’t follow trends in AI — I build what’s next."*
 
 ---
 
-## 🧰 Core Tech Stack
+## - Core Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0A66C2?style=for-the-badge&logo=python&logoColor=white"/>
@@ -44,13 +44,13 @@ AI that understands and validates documents — detects anomalies and suggests d
 
 ---
 
-### 🧠 ChatGen — Conversational Agent
+### - ChatGen — Conversational Agent
 An LLM-based agent with memory and reasoning for context-aware conversations.  
 **Tech:** Python • LangChain • GPT Models
 
 ---
 
-### 🔮 Project Horizon *(in progress)*
+### -Project Horizon *(in progress)*
 Exploring multi-agent reasoning and adaptive decision-making for collaborative AI systems.
 
 ---
