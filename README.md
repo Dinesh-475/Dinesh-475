@@ -1,7 +1,7 @@
 <!-- Dinesh's Futuristic GitHub Profile -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dinesh-475/Dinesh-475/main/banner_v2.png" alt="Dinesh S — Generative AI Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/Dinesh-475/Dinesh-475/main/banner_v3.png" alt="Dinesh S — Generative AI Engineer" width="100%" />
 </p>
 
 
