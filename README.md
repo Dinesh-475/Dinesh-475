@@ -4,7 +4,7 @@
 <h3 align="center" style="color:#B8B8B8;">Designing Intelligence • Building the Future • Automating Imagination</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=00C2FF&width=520&lines=Generative+AI+Engineer;Autonomous+AI+Agent+Builder;AI+Systems+Developer;Futuristic+Tech+Innovator" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=00C2FF&width=520&lines=Generative+AI+Engineer;Autonomous+AI+Agent+Builder;Futuristic+Tech+Innovator" alt="Typing Animation" />
 </p>
 
 ---
